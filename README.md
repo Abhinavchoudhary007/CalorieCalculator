@@ -1,0 +1,2 @@
+# CalorieCalculator
+Django project 
